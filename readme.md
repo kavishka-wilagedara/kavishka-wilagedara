@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=kavishka-wilagedara&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
-## 🚀 About Me
-
-# **Aspiring Full Stack Developer**  
+Aspiring Full Stack Developer  
 ---  
 - 🎓 **BSc Student | University of Kelaniya**  
 - 🌱 Learning **Spring Boot & React**  
