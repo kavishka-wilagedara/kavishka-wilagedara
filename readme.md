@@ -8,7 +8,7 @@ Aspiring Full Stack Developer
 ---  
 - 🎓 **BSc Student | University of Kelaniya**  
 - 🌱 Learning **Spring Boot & React**  
-- 🛠️ Skilled in **Java, REST APIs, MtSQL, MongoDB**  
+- 🛠️ Skilled in **Java, REST APIs, MYSQL, MongoDB**  
 - 💬 Passionate about **Backend Development**  
 - 📫 Reach me at **kavishkamadumal890@gmail.com**  
 
@@ -20,9 +20,9 @@ Aspiring Full Stack Developer
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
 
 ## 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka-wilagedara&layout=compact&theme=tokyonight)](https://github.com/kavishka-wilagedara)
