@@ -6,9 +6,13 @@
 
 ## 🚀 About Me
 
-I am a **Backend Software Engineer** with a strong passion for building **scalable, high-performance applications**. My expertise lies in **Java, Spring Boot, RESTful APIs, and Database Management**, with hands-on experience in **backend architectures and cloud-native solutions**. I also work with **React** and other modern frontend technologies.
-
-I am highly skilled in **Software Engineering Principles, System Design, and Microservices Architecture**, with a deep interest in **Distributed Systems, DevOps, and Cloud Computing**. Currently, I am working on enhancing my knowledge in **Spring Framework and React**.
+# **Aspiring Full Stack Developer**  
+---  
+- 🎓 **BSc Student | University of Kelaniya**  
+- 🌱 Learning **Spring Boot & React**  
+- 🛠️ Skilled in **Java, REST APIs, MtSQL, MongoDB**  
+- 💬 Passionate about **Backend Development**  
+- 📫 Reach me at **kavishkamadumal890@gmail.com**  
 
 ---
 
