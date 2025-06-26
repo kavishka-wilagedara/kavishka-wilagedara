@@ -1,47 +1,62 @@
-<h1 align="center">Hey 👋, I'm Kavishka Wilagedara</h1>
+<h1 align="center">Hi there 👋, I'm Kavishka Wilagedara</h1>
+
 <p align="center">
-  Aspiring Full Stack Developer | Passionate Backend Developer
+  <b>Aspiring Full Stack Developer | Focused on Backend Engineering</b><br>
+  Passionate about building scalable web apps and exploring AI integrations.
 </p>
-
-
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 BSc Student – University of Kelaniya  
-- 🧠 Currently learning: **Spring Framework**, **React**, and **Cloud Technologies**  
-- 🌍 Exploring the world of **DevOps**, **RESTful APIs**, and **system design**  
+- 🌱 Currently diving deep into **Spring Boot**, **React**, and **Cloud Technologies**
+- 🛠️ Exploring **DevOps**, **RESTful API Design**, and **System Architecture**
+- 🤖 Enthusiastic about integrating AI into real-world applications
 
 ---
 
-## 🛠 Languages and Tools
+## 🧰 Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=plastic&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+<div align="center">
 
+<!-- Programming & Frameworks -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
+<!-- Databases & DevOps -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavishka-wilagedara&show_icons=true&theme=default&border_radius=10" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka-wilagedara&layout=compact&theme=default&border_radius=10" width="47%" />
+</div>
+
+---
+
+## 📫 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavishka-wilagedara&show_icons=true&theme=light" alt="Kavishka's GitHub Stats" style="border: 2px solid black;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka-wilagedara&layout=compact&theme=light" alt="Top Languages" style="border: 2px solid black;" />
+  <a href="https://www.linkedin.com/in/kavishka-wilagedara-10779b344/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kavishkamadumal890@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavishka-wilagedara-10779b344/)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kavishkamadumal890@gmail.com)
 
 ---
